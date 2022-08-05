@@ -6,6 +6,7 @@
 - Good parser
 - Tree-struct generator
 - Dynamic
+- File type detector
 - Dead file detector
 - Generates html
 - Easy to use
