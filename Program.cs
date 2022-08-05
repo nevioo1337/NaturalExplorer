@@ -6,7 +6,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading;
 
-namespace WWS_Explorer_Console
+namespace NaturalExplorer
 {
     internal class Program
     {
