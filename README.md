@@ -24,3 +24,9 @@ As far as i know this is the only Natural explorer out there.
 - Green = Good
 - Red = File does not exist
 - Blue = Recursion
+
+## Todo
+- Advanced recursion detection
+- Multi directory support
+- Search function
+- Ignore list for dead file detector
