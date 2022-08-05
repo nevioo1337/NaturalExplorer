@@ -1,4 +1,5 @@
 # NaturalExplorer
+As far as i know this is the only Natural explorer out there.
 ![Screenshot 2022-08-05 170717](https://user-images.githubusercontent.com/102999825/183106464-c7a462e9-d04c-4a6d-824e-ac5b42b47296.png)
 
 ## Features
