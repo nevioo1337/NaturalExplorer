@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaturalExplorer", "NaturalExplorer.csproj", "{7FB6FD5D-ADB6-48CE-AE66-3D8F8303ACE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FB6FD5D-ADB6-48CE-AE66-3D8F8303ACE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB6FD5D-ADB6-48CE-AE66-3D8F8303ACE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB6FD5D-ADB6-48CE-AE66-3D8F8303ACE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB6FD5D-ADB6-48CE-AE66-3D8F8303ACE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46EB8E0B-9F34-4A5D-958C-9B5F202CF98B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+﻿<html>
+    <head>
+        <title>Natural Explorer</title>
+	</head>
+<body style="background-color: rgb(0, 0, 0);">
+<script>
+    function toggleDiv(guid) {
+        console.log(guid);
+        var state = document.getElementById(guid).style.display;
+        console.log(state);
+        if (state != 'none') {
+            document.getElementById(guid).style.display = 'none';
+            document.getElementById(guid + "_icon").innerHTML = '➕';
+        } else {
+            document.getElementById(guid).style.display = 'block';
+            document.getElementById(guid + "_icon").innerHTML = '➖';
+        }
+}
+</script>
+{CONTENT}
+</body>
+</html>
