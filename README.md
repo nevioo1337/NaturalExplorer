@@ -30,3 +30,4 @@ As far as i know this is the only Natural explorer out there.
 - Multi directory support
 - Search function
 - Ignore list for dead file detector
+- Documentation
